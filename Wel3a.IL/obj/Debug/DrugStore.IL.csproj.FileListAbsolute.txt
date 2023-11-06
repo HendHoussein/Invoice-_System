@@ -1,0 +1,344 @@
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.exe.config
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.exe
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.pdb
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Properties.Resources.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.GenerateResource.cache
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.CoreCompileInputs.cache
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.exe
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.pdb
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmMain.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.BorderedTextBox.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.InvoiceTabs.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Itemstebs.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.AddItems.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Customers.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.CopyComplete
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.SearchTextBox.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Receipt.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.SearchItems.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.SellingInvoice.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Suppliers.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.User_Controls.Design.DetailsCard.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Home.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Deficiencies.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ResevationOrder.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csprojAssemblyReference.cache
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmContainer.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.DiscardedInvoice.resources
+C:\Users\A.H\source\repos\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.SearchInvoice.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.exe.config
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.exe
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.pdb
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csprojAssemblyReference.cache
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmContainer.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmMain.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Properties.Resources.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.BorderedTextBox.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.User_Controls.Design.DetailsCard.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.SearchTextBox.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.InvoiceTabs.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Itemstebs.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.AddItems.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Customers.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Deficiencies.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.DiscardedInvoice.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Home.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Receipt.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ResevationOrder.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.SearchInvoice.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.SearchItems.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.SellingInvoice.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Suppliers.resources
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.GenerateResource.cache
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.CoreCompileInputs.cache
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.CopyComplete
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.exe
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.pdb
+E:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.a7a.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.exe.config
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.exe
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.pdb
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csprojAssemblyReference.cache
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.a7a.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmContainer.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmMain.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Properties.Resources.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.BorderedTextBox.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.User_Controls.Design.DetailsCard.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.SearchTextBox.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.InvoiceTabs.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Itemstebs.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Deficiencies.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.DiscardedInvoice.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Home.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ResevationOrder.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.SearchInvoice.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.GenerateResource.cache
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.CoreCompileInputs.cache
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.CopyComplete
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.exe
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.pdb
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmInputs.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmCustomers.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSuppliers.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmItems.resources
+D:\Work\Projects\Windows Applications\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSellingInvoice.resources
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.exe.config
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.exe
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.pdb
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csprojResolveAssemblyReference.cache
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.a7a.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmLogin.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSafeMoney.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmDebts.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmReceipts.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmDiscardedInvoice.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmOldInvoices.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSellingInvoice.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmItems.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmStores.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmStatistics.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSuppliers.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmInputs.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmCustomers.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmMain.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Properties.Resources.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.BorderedTextBox.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.User_Controls.Design.DetailsCard.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.SearchTextBox.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.NotificationCard.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.InvoiceTabs.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucMoneySafeTaps.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Itemstebs.resources
+E:\Ahmed\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.GenerateResource.Cache
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.exe
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.pdb
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\DrugStore.BL.dll
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\MySql.Data.dll
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\Google.Protobuf.dll
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\ZstdNet.dll
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\BouncyCastle.Crypto.dll
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\Ubiety.Dns.Core.dll
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\System.Memory.dll
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\System.Buffers.dll
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.dll
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\K4os.Hash.xxHash.dll
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\DrugStore.BL.pdb
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\MySql.Data.xml
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\Google.Protobuf.pdb
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\Google.Protobuf.xml
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\System.Memory.xml
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\System.Buffers.xml
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.xml
+E:\Ahmed\DrugStore\DrugStore.IL\bin\Debug\K4os.Hash.xxHash.xml
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.exe.config
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.exe
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.pdb
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\DrugStore.BL.dll
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\MySql.Data.dll
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\Google.Protobuf.dll
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\ZstdNet.dll
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\BouncyCastle.Crypto.dll
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\Ubiety.Dns.Core.dll
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\System.Memory.dll
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\System.Buffers.dll
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.dll
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\K4os.Hash.xxHash.dll
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\DrugStore.BL.pdb
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\DrugStore.BL.dll.config
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\MySql.Data.xml
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\Google.Protobuf.pdb
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\Google.Protobuf.xml
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\System.Memory.xml
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\System.Buffers.xml
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.xml
+D:\Work\currentWork\DrugStore\DrugStore.IL\bin\Debug\K4os.Hash.xxHash.xml
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.a7a.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmAddProducts.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmLogin.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmAddMoneyMovements.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmReceipts.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmDiscardedInvoice.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmOldInvoices.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSellingInvoice.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmStores.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmStatistics.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSuppliers.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmCustomers.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmMain.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Properties.Resources.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.BorderedTextBox.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.User_Controls.Design.DetailsCard.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.SearchTextBox.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.NotificationCard.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.InvoiceTabs.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucMoneySafeTaps.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Itemstebs.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.GenerateResource.cache
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.CoreCompileInputs.cache
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.CopyComplete
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.exe
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.pdb
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmShowProducts.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmItems.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmAccounts.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSellReport.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucQueries.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmProfitReport.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmMoneyMovings.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmPayments.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.exe.config
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.exe
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.pdb
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\DrugStore.BL.dll
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\MySql.Data.dll
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\Google.Protobuf.dll
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\ZstdNet.dll
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\System.Memory.dll
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\System.Buffers.dll
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\DrugStore.BL.pdb
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\DrugStore.BL.dll.config
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\MySql.Data.xml
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\Google.Protobuf.pdb
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\Google.Protobuf.xml
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\System.Memory.xml
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\System.Buffers.xml
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.AssemblyReference.cache
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.a7a.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmAddProducts.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmItems.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmLogin.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmAddMoneyMovements.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmMoneyMovings.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmPayments.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmReceipts.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmDiscardedInvoice.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmOldInvoices.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSellingInvoice.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmShowProducts.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmStores.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmStatistics.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmAccounts.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSuppliers.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmCustomers.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmMain.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmProfitReport.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSellReport.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Properties.Resources.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.BorderedTextBox.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.User_Controls.Design.DetailsCard.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.SearchTextBox.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.NotificationCard.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.InvoiceTabs.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucQueries.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucMoneySafeTaps.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Itemstebs.resources
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.GenerateResource.cache
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.CoreCompileInputs.cache
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.CopyComplete
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.exe
+C:\Users\Eng.MH\Desktop\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.pdb
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.AssemblyReference.cache
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.SuggestedBindingRedirects.cache
+D:\work\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.exe.config
+D:\work\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.exe
+D:\work\DrugStore\DrugStore.IL\bin\Debug\DrugStore.IL.pdb
+D:\work\DrugStore\DrugStore.IL\bin\Debug\DrugStore.BL.dll
+D:\work\DrugStore\DrugStore.IL\bin\Debug\MySql.Data.dll
+D:\work\DrugStore\DrugStore.IL\bin\Debug\Google.Protobuf.dll
+D:\work\DrugStore\DrugStore.IL\bin\Debug\ZstdNet.dll
+D:\work\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\work\DrugStore\DrugStore.IL\bin\Debug\BouncyCastle.Crypto.dll
+D:\work\DrugStore\DrugStore.IL\bin\Debug\Ubiety.Dns.Core.dll
+D:\work\DrugStore\DrugStore.IL\bin\Debug\System.Memory.dll
+D:\work\DrugStore\DrugStore.IL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\DrugStore\DrugStore.IL\bin\Debug\System.Buffers.dll
+D:\work\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.dll
+D:\work\DrugStore\DrugStore.IL\bin\Debug\K4os.Hash.xxHash.dll
+D:\work\DrugStore\DrugStore.IL\bin\Debug\DrugStore.BL.pdb
+D:\work\DrugStore\DrugStore.IL\bin\Debug\DrugStore.BL.dll.config
+D:\work\DrugStore\DrugStore.IL\bin\Debug\MySql.Data.xml
+D:\work\DrugStore\DrugStore.IL\bin\Debug\Google.Protobuf.pdb
+D:\work\DrugStore\DrugStore.IL\bin\Debug\Google.Protobuf.xml
+D:\work\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\work\DrugStore\DrugStore.IL\bin\Debug\System.Memory.xml
+D:\work\DrugStore\DrugStore.IL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\work\DrugStore\DrugStore.IL\bin\Debug\System.Buffers.xml
+D:\work\DrugStore\DrugStore.IL\bin\Debug\K4os.Compression.LZ4.xml
+D:\work\DrugStore\DrugStore.IL\bin\Debug\K4os.Hash.xxHash.xml
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csprojAssemblyReference.cache
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.a7a.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmItems.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmLogin.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmAddMoneyMovements.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmMoneyMovings.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmPayments.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmAddProducts.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmReceipts.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmDiscardedInvoice.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmOldInvoices.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSellingInvoice.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmShowProducts.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmStores.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmStatistics.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmAccounts.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSuppliers.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmCustomers.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmMain.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmProfitReport.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSellReport.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Properties.Resources.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.BorderedTextBox.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.User_Controls.Design.DetailsCard.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.SearchTextBox.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.NotificationCard.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.InvoiceTabs.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucQueries.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucMoneySafeTaps.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.Itemstebs.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucProfitReportDependItemAndDate.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.GenerateResource.cache
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.CoreCompileInputs.cache
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.csproj.CopyComplete
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.exe
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.pdb
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucProfitReportDependInvoice.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucProfitReportDependInvoice.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucProfitReportDependItemAndDate.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucProfitReportDependCustomer.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmInvoicesReport.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucInvoiceArshive.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmAddProducts_b.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmReceipts_b.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSellingInvoice_b.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmItems_b.resources
+D:\Work\currentWork\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmConfigurations.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmAddProducts_b.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmItems_b.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmReceipts_b.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmSellingInvoice_b.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmConfigurations.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.frmInvoicesReport.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucInvoiceArshive.resources
+D:\work\DrugStore\DrugStore.IL\obj\Debug\DrugStore.IL.ucProfitReportDependCustomer.resources

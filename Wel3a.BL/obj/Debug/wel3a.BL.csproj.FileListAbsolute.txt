@@ -1,0 +1,84 @@
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\Wel3a.BL.dll.config
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\Wel3a.BL.dll
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\Wel3a.BL.pdb
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\BouncyCastle.Crypto.dll
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\Google.Protobuf.dll
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\K4os.Compression.LZ4.dll
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\K4os.Hash.xxHash.dll
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\MySql.Data.dll
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\System.Buffers.dll
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\System.Memory.dll
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\Ubiety.Dns.Core.dll
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\ZstdNet.dll
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\Google.Protobuf.pdb
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\Google.Protobuf.xml
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\K4os.Compression.LZ4.xml
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\K4os.Hash.xxHash.xml
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\MySql.Data.xml
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\System.Buffers.xml
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\System.Memory.xml
+D:\Work\currentWork\Wel3a\Wel3a.BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Work\currentWork\Wel3a\Wel3a.BL\obj\Debug\Wel3a.BL.csproj.AssemblyReference.cache
+D:\Work\currentWork\Wel3a\Wel3a.BL\obj\Debug\Wel3a.BL.csproj.CoreCompileInputs.cache
+D:\Work\currentWork\Wel3a\Wel3a.BL\obj\Debug\Wel3a.BL.csproj.CopyComplete
+D:\Work\currentWork\Wel3a\Wel3a.BL\obj\Debug\Wel3a.BL.dll
+D:\Work\currentWork\Wel3a\Wel3a.BL\obj\Debug\Wel3a.BL.pdb
+D:\work\Wel3a\Wel3a.BL\bin\Debug\Wel3a.BL.dll.config
+D:\work\Wel3a\Wel3a.BL\bin\Debug\Wel3a.BL.dll
+D:\work\Wel3a\Wel3a.BL\bin\Debug\Wel3a.BL.pdb
+D:\work\Wel3a\Wel3a.BL\bin\Debug\BouncyCastle.Crypto.dll
+D:\work\Wel3a\Wel3a.BL\bin\Debug\Google.Protobuf.dll
+D:\work\Wel3a\Wel3a.BL\bin\Debug\K4os.Compression.LZ4.dll
+D:\work\Wel3a\Wel3a.BL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\work\Wel3a\Wel3a.BL\bin\Debug\K4os.Hash.xxHash.dll
+D:\work\Wel3a\Wel3a.BL\bin\Debug\MySql.Data.dll
+D:\work\Wel3a\Wel3a.BL\bin\Debug\System.Buffers.dll
+D:\work\Wel3a\Wel3a.BL\bin\Debug\System.Memory.dll
+D:\work\Wel3a\Wel3a.BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\Wel3a\Wel3a.BL\bin\Debug\Ubiety.Dns.Core.dll
+D:\work\Wel3a\Wel3a.BL\bin\Debug\ZstdNet.dll
+D:\work\Wel3a\Wel3a.BL\bin\Debug\Google.Protobuf.pdb
+D:\work\Wel3a\Wel3a.BL\bin\Debug\Google.Protobuf.xml
+D:\work\Wel3a\Wel3a.BL\bin\Debug\K4os.Compression.LZ4.xml
+D:\work\Wel3a\Wel3a.BL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\work\Wel3a\Wel3a.BL\bin\Debug\K4os.Hash.xxHash.xml
+D:\work\Wel3a\Wel3a.BL\bin\Debug\MySql.Data.xml
+D:\work\Wel3a\Wel3a.BL\bin\Debug\System.Buffers.xml
+D:\work\Wel3a\Wel3a.BL\bin\Debug\System.Memory.xml
+D:\work\Wel3a\Wel3a.BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\work\Wel3a\Wel3a.BL\obj\Debug\Wel3a.BL.csprojAssemblyReference.cache
+D:\work\Wel3a\Wel3a.BL\obj\Debug\Wel3a.BL.csproj.CoreCompileInputs.cache
+D:\work\Wel3a\Wel3a.BL\obj\Debug\Wel3a.BL.csproj.CopyComplete
+D:\work\Wel3a\Wel3a.BL\obj\Debug\Wel3a.BL.dll
+D:\work\Wel3a\Wel3a.BL\obj\Debug\Wel3a.BL.pdb
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\Wel3a.BL.dll.config
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\Wel3a.BL.dll
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\Wel3a.BL.pdb
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\BouncyCastle.Crypto.dll
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\Google.Protobuf.dll
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\K4os.Compression.LZ4.dll
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\K4os.Hash.xxHash.dll
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\MySql.Data.dll
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\System.Buffers.dll
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\System.Memory.dll
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\Ubiety.Dns.Core.dll
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\ZstdNet.dll
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\Google.Protobuf.pdb
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\Google.Protobuf.xml
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\K4os.Compression.LZ4.xml
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\K4os.Hash.xxHash.xml
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\MySql.Data.xml
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\System.Buffers.xml
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\System.Memory.xml
+D:\work\DrugStore - Copy\Wel3a.BL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\work\DrugStore - Copy\Wel3a.BL\obj\Debug\Wel3a.BL.csprojAssemblyReference.cache
+D:\work\DrugStore - Copy\Wel3a.BL\obj\Debug\Wel3a.BL.csproj.CoreCompileInputs.cache
+D:\work\DrugStore - Copy\Wel3a.BL\obj\Debug\Wel3a.BL.csproj.CopyComplete
+D:\work\DrugStore - Copy\Wel3a.BL\obj\Debug\Wel3a.BL.dll
+D:\work\DrugStore - Copy\Wel3a.BL\obj\Debug\Wel3a.BL.pdb
